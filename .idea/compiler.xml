@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="wuu" />
+        <module name="wuu_day07" />
+        <module name="java_learn-main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="java_learn-main" target="8" />
+      <module name="wuu" target="8" />
+      <module name="wuu_day07" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
