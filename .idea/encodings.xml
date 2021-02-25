@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/wuu_algorithm/src/main/java/Test.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/wuu_algorithm/src/main/java/binarysearchnorecursion" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/wuu_algorithm/src/main/java/binarysearchnorecursion/BinarySearchNoRecur.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/wuu_algorithm/src/main/java/dac" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/wuu_algorithm/src/main/java/dac/Hanoitower.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/wuu_algorithm/src/main/java/dijkstra" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/wuu_algorithm/src/main/java/dijkstra/DijkstraAlgorithm.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/wuu_algorithm/src/main/java/dynamic" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/wuu_algorithm/src/main/java/dynamic/KnapsackProblem.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/wuu_algorithm/src/main/java/floyd" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/wuu_algorithm/src/main/java/greedy" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/wuu_algorithm/src/main/java/greedy/GreedyAlgorithm.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/wuu_algorithm/src/main/java/horse" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/wuu_algorithm/src/main/java/kmp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/wuu_algorithm/src/main/java/kruskal" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/wuu_algorithm/src/main/java/prim" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

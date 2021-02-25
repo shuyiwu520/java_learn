@@ -5,7 +5,10 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/java_learn-main.iml" filepath="$PROJECT_DIR$/.idea/java_learn-main.iml" />
       <module fileurl="file://$PROJECT_DIR$/wuu/wuu.iml" filepath="$PROJECT_DIR$/wuu/wuu.iml" />
       <module fileurl="file://$PROJECT_DIR$/wuu_Array/wuu_Array.iml" filepath="$PROJECT_DIR$/wuu_Array/wuu_Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wuu_algorithm/wuu_algorithm.iml" filepath="$PROJECT_DIR$/wuu_algorithm/wuu_algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wuu_algorithm_test/wuu_algorithm_test.iml" filepath="$PROJECT_DIR$/wuu_algorithm_test/wuu_algorithm_test.iml" />
       <module fileurl="file://$PROJECT_DIR$/wuu_day07/wuu_day07.iml" filepath="$PROJECT_DIR$/wuu_day07/wuu_day07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wuu_day08/wuu_day08.iml" filepath="$PROJECT_DIR$/wuu_day08/wuu_day08.iml" />
     </modules>
   </component>
 </project>

@@ -6,16 +6,22 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="wuu_algorithm" />
         <module name="wuu_Array" />
+        <module name="wuu_day08" />
         <module name="wuu" />
         <module name="wuu_day07" />
+        <module name="wuu_algorithm_test" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="java_learn-main" target="8" />
       <module name="wuu" target="8" />
+      <module name="wuu_algorithm" target="8" />
+      <module name="wuu_algorithm_test" target="8" />
       <module name="wuu_Array" target="8" />
       <module name="wuu_day07" target="8" />
+      <module name="wuu_day08" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
